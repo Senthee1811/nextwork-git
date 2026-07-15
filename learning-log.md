@@ -29,3 +29,5 @@ I'm learning Git and version control to track my work.
 ## Next Steps
 
 - Learn about rebasing and interactive rebase
+
+- PR templates save time on every future pull request
